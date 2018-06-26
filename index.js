@@ -40,5 +40,9 @@ function createSphere() {
 }
 
 function createSpheres() {
-  // TODO: implement me!
+  return newSphere;
+}
+
+function addBobanimationToElement(){
+  
 }
